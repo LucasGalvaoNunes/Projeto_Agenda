@@ -1,0 +1,34 @@
+﻿<Window x:Class="Agenda_Virtual.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Agenda_Virtual"
+        mc:Ignorable="d"
+        Title="Menu" Height="188.543" Width="184.548">
+    <Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF003AFF"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="177">
+            <MenuItem Header="Contatos">
+                <MenuItem Header="Pessoais">
+                    <MenuItem Header="Consultar Contatos" Click="consulta"/>
+
+                </MenuItem>
+                <MenuItem Header="Empresariais">
+                    <MenuItem Header="Consultar Contatos" Click="consultaEmpresa"/>
+
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Sair" Click="menuSair"/>
+        </Menu>
+        <Button x:Name="btnPessoa" Content="Editar Agenda Pessoal" HorizontalAlignment="Left" Margin="11,44,0,0" VerticalAlignment="Top" Width="148" Height="42" Click="btnPessoa_Click" Background="#FFFFF300"/>
+        <Button x:Name="btnEmpresa" Content="Editar Agenda Empresarial" HorizontalAlignment="Left" Margin="11,91,0,0" VerticalAlignment="Top" Width="148" Height="42" Click="btnEmpresa_Click" Foreground="#FF020202" Background="#FFFFF300"/>
+
+    </Grid>
+</Window>
