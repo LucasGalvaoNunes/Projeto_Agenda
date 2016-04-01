@@ -32,7 +32,7 @@
         <Label x:Name="label_Copy4" Content="Celular" HorizontalAlignment="Left" Margin="11,241,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="96" Foreground="#FFFFC500"/>
         <Label x:Name="label_Copy5" Content="Empresa:" HorizontalAlignment="Left" Margin="11,307,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="138" Foreground="#FFFFC500"/>
         <Label x:Name="label_Copy6" Content="CNPJ:" HorizontalAlignment="Left" Margin="11,339,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="96" Foreground="#FFFFC500"/>
-        <TextBox x:Name="txbCnpjC" HorizontalAlignment="Left" Height="24" Margin="149,345,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Text="Lucasgalvao"/>
+        <TextBox x:Name="txbCnpjC" HorizontalAlignment="Left" Height="24" Margin="149,345,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Text="00.000.000/0000-00"/>
         <TextBox x:Name="txbEmailC" HorizontalAlignment="Left" Height="24" Margin="149,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Text="lucas@gmail.com"/>
         <TextBox x:Name="txbCelularC" HorizontalAlignment="Left" Height="22" Margin="149,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Text="(41) 4444-4444"/>
         <TextBox x:Name="txbTelefoneC" HorizontalAlignment="Left" Height="24" Margin="149,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Text="(41) 3333-3333"/>

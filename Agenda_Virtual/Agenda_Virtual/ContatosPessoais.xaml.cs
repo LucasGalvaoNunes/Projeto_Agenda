@@ -231,6 +231,7 @@ namespace Agenda_Virtual
                 txbBairoC.Text = c.bairro;
                 txbNumeroC.Text = c.numero;
                 btnAltera.IsEnabled = true;
+                btnCadastra.IsEnabled = false;
             }
 
         }
@@ -263,6 +264,7 @@ namespace Agenda_Virtual
             Adciona();
             lbPesquisa.Items.Clear();
             btnAltera.IsEnabled = false;
+            btnCadastra.IsEnabled = true;
         }
     }
 }

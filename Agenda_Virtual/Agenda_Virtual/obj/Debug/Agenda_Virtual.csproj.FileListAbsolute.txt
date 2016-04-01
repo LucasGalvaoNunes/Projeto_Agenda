@@ -18,3 +18,23 @@ c:\users\lucas\documents\visual studio 2015\Projects\Agenda_Virtual\Agenda_Virtu
 c:\users\lucas\documents\visual studio 2015\Projects\Agenda_Virtual\Agenda_Virtual\obj\Debug\Menu.baml
 C:\Users\lucas\Documents\Visual Studio 2015\Projects\Agenda_Virtual\Agenda_Virtual\obj\Debug\ContatosEmpresas.g.cs
 C:\Users\lucas\Documents\Visual Studio 2015\Projects\Agenda_Virtual\Agenda_Virtual\obj\Debug\ContatosEmpresas.baml
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\bin\Debug\Agenda_Virtual.exe.config
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual.exe
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual.pdb
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\bin\Debug\Agenda_Virtual.exe
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\bin\Debug\Agenda_Virtual.pdb
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\ContatosEmpresas.g.cs
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\ContatosPessoais.g.cs
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Menu.g.cs
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\App.g.cs
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual_MarkupCompile.cache
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual_MarkupCompile.lref
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\ContatosEmpresas.baml
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\ContatosPessoais.baml
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\MainWindow.baml
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Menu.baml
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual.g.resources
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual.Properties.Resources.resources
+C:\Users\lucas\Desktop\Repositorio GitHub\Agenda_Virtual\Agenda_Virtual\obj\Debug\Agenda_Virtual.csproj.GenerateResource.Cache

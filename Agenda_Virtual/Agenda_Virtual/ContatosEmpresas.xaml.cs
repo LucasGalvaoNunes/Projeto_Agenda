@@ -36,6 +36,7 @@ namespace Agenda_Virtual
 
         private void btnOK_Click(object sender, RoutedEventArgs e)
         {
+            
             string nome = util.normalizarString(txbInformaNomeA.Text);
             string sobrenome = util.normalizarString(txbInformaSobrenomeA.Text);
             var mostrar = from c in pessoaLista.ToList() where c.nome == nome && c.sobrenome == sobrenome select c;
@@ -54,6 +55,7 @@ namespace Agenda_Virtual
                 txbBairoC.Text = c.bairro;
                 txbNumeroC.Text = c.numero;
                 btnAltera.IsEnabled = true;
+                btnCadastra.IsEnabled = false;
             }
         }
 
@@ -71,6 +73,7 @@ namespace Agenda_Virtual
             Adciona();
             lbPesquisa.Items.Clear();
             btnAltera.IsEnabled = false;
+            btnCadastra.IsEnabled = true;
         }
 
         private void btnExclui_Click(object sender, RoutedEventArgs e)
